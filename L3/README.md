@@ -1,12 +1,12 @@
 Скриншоты выполненных тестов:
 1. RideCleanisingExcercise
-   ![изображение](https://github.com/darkeyelids1337/bigData/assets/94111168/61c612f6-fd06-49be-affe-b684c863f01e)
+   ![image](https://github.com/EgorPozharskiy/Big_Data/assets/113051721/0e1d1ab6-3def-4f58-b612-22a9dc18348b)
 
 2. RidesAndFaresExercise
-![изображение](https://github.com/darkeyelids1337/bigData/assets/94111168/d8df36f1-9aa5-4e54-b3d2-4d2a9dd77d5d)
+![image](https://github.com/EgorPozharskiy/Big_Data/assets/113051721/7f55c65d-2861-46e0-9d66-36db8821699a)
 
-3. HourlyTipsExerxise
-![изображение](https://github.com/darkeyelids1337/bigData/assets/94111168/07197a20-0006-4984-85c4-89c34215c494)
+4. HourlyTipsExerxise
+![image](https://github.com/EgorPozharskiy/Big_Data/assets/113051721/1f36eb46-84b5-4e19-8b3d-2133168eee65)
 
-4. ExpiringStateExercise
-![изображение](https://github.com/darkeyelids1337/bigData/assets/94111168/676ff9fc-577b-4a9c-895e-1f5f47948ed2)
+5. ExpiringStateExercise
+![image](https://github.com/EgorPozharskiy/Big_Data/assets/113051721/886129bf-b7ec-4051-921d-389f26870c75)
